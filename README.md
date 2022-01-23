@@ -1,2 +1,3 @@
 # Workbech-caMicroscope-
-This repository is created for purpose of learning how caMicroscope's Workbench app is build.
+
+This repository is created for the purpose of learning how caMicroscope's Workbench app is build.
